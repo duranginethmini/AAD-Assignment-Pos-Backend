@@ -7,7 +7,7 @@ The POS System Backend is an API that supports the frontend operations of a Poin
 - [Features](#Features)
 - [Technologies](#Technologies)
 - [installation](#installation)
-- [API Documentation](#API Documentation)
+- [API Documentation]
 - [License](#license)
 
 
